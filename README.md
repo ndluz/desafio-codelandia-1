@@ -9,6 +9,7 @@ Projeto foi feito com o intuito de colocar em prática os meus conhecimentos uti
 
 O proejto do figma é um dos projetos disponíveis no servidor do discord Codelândia.
 
+Link da demo: https://63b745cd55b7ef2303491ae1--jade-banoffee-f6ec41.netlify.app/ <br>
 Link do servidor: https://discord.gg/wNCWTVuxyz <br>
 Link do figma:  https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndia-Desafios?node-id=0%3A1
 
