@@ -17,8 +17,8 @@ Link do figma:  https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Codel%C3%A2ndi
 
 ## 💻 Demosntração
 <a href="">
-  <img alt="demo desktop" src="./demo-desktop.gif" ><br>
-  <img alt="demo mobile" src="./demo-mobile.gif" >
+  <img alt="demo desktop" src="./demo-desktop.png" ><br>
+  <img alt="demo mobile" src="./demo-mobile.png" >
 </a>
 
 ---
