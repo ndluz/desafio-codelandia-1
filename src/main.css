@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5% /*equivale a 10px*/
+}
+
+body {
+  background: #fefe;
+}
+
+@media (max-width:850px) {
+  .input-container {
+    width: 90%  ;
+  }
+
+  .header-title-div {
+    justify-content : space-between;
+    width: 90%;
+  }
+  .post-container {
+    width: 90%;
+  }
+}
